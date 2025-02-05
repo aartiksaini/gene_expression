@@ -1,4 +1,4 @@
-```markdown
+
 # Gene Expression Analysis
 
 ## Overview
@@ -57,5 +57,4 @@ The complete analysis is documented in `gene_expression.ipynb`, covering:
 - `matplotlib`
 - `seaborn`
 
-```
 
