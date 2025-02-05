@@ -1,7 +1,7 @@
 
 # Gene Expression Analysis
 
-## Overview
+## Goal
 This project focuses on analyzing gene expression data to explore relationships between gene activity and individual health conditions. The dataset consists of gene expression measurements for multiple individuals, categorized into:
 
 - Healthy Controls
